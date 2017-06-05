@@ -1,2 +1,2 @@
 # document_collection
-好项目的学习与收集
+1、Python 资源大全中文版：https://github.com/jobbole/awesome-python-cn
